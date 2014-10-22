@@ -1,4 +1,4 @@
-US - Inverted Numbers
+QWERTY - Keyboard for programmers.
 =====================
 
 Description
